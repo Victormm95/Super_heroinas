@@ -15,9 +15,9 @@ Es una científica computacional, matemática e **ingeniera de Software**. Fue d
 * Ingeniería
 
 ##### LINKS
-[Margaret Hamilton](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica))
+[Margaret Hamilton](https://es.wikipedia.org/wiki/Margaret_Hamilton_(cient%C3%ADfica) "Imagen 1")
 
 ##### Imágen
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/68/Margaret_Hamilton_1995.jpg "Imagen de Hamilton")
+![alt text](http://mujeresconciencia.com/app/uploads/2017/06/Margaret_Hamilton-780x971.gif "Imagen de Hamilton")
 
 
