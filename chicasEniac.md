@@ -25,4 +25,4 @@ Kathleen McNulty Mauchly Antonelli (1921-2006) también se trasladó en 1947 con
 4. cl**Marlyn Wescoff Meltzer** (1922-2008)​ renunció a su puesto antes del traslado del ENIAC a Aberdeen para contraer matrimonio.
 
 [Ver biografía](https://mujeresconciencia.com/2017/09/29/las-chicas-del-eniac-1946-1955/)
-![alt text](https://github.com/Victormm95/Super_heroinas/blob/main/Enianc.jpg "Trabajando en ENIAC")
+![alt text](https://github.com/Victormm95/Super_heroinas/blob/main/Eniac.jpg "Trabajando en ENIAC")
