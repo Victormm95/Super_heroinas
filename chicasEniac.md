@@ -22,7 +22,7 @@ Kathleen McNulty Mauchly Antonelli (1921-2006) también se trasladó en 1947 con
 
 3. **Frances Bilas Spence** (1922-2012) se casó en 1947 con un ingeniero electrónico de la armada que trabajó también en el ENIAC. Dejó su puesto para cuidar a su familia.
 
-4. **Marlyn Wescoff Meltzer** (1922-2008)​ renunció a su puesto antes del traslado del ENIAC a Aberdeen para contraer matrimonio.
+4. cl**Marlyn Wescoff Meltzer** (1922-2008)​ renunció a su puesto antes del traslado del ENIAC a Aberdeen para contraer matrimonio.
 
 [Ver biografía](https://mujeresconciencia.com/2017/09/29/las-chicas-del-eniac-1946-1955/)
 ![alt text](https://github.com/Victormm95/Super_heroinas/blob/main/Enianc.jpg "Trabajando en ENIAC")
